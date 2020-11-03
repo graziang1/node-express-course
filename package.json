@@ -1,0 +1,24 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graziang1/node-express-course.git"
+  },
+  "dependencies": {
+    "express": "^2.15.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graziang1/node-express-course/issues"
+  },
+  "homepage": "https://github.com/graziang1/node-express-course#readme"
+}
